@@ -6,27 +6,51 @@
 	--black: #000000;
 	--ivory: #fffff2;
 	--white: #ffffff;
+	--navbar-height: 55px;
 }
-
 *{
 	margin: 0;
 	padding: 0;
+	font-family: "Elza", sans-serif;
 }
-
 body {
 	background: var(--ivory);
 }
-
 .header{
-	height: 50px;
-	padding: 5px 200px;
+	height: var(--navbar-height);
+	padding: 6px 250px;
 	background: var(--slate-green);
 	border-bottom: 5px var(--forest-green) solid;
 }
-
-#nazaradehlogo{
-	height: 50px;
+#navbarlogo{
+	height: var(--navbar-height);
 	float: left;
 	margin: 0;
 	padding: 0;
+}
+#navbarlogo a{
+	transition: all 0.2s ease-out;
+}
+#navbarlogo a:hover{
+	/* less white filter: sepia(30%) brightness(104%);*/
+	filter: sepia(100%) brightness(106.5%);
+}
+#navbarlist{
+	text-align: right;
+}
+#navbarlist li{
+	display: inline-block;
+	font-size: 18px;
+	letter-spacing: 0.5px;
+	padding: 0px 15px;
+	font-weight: 500;
+	line-height: calc(var(--navbar-height) + 2px);
+}
+#navbarlist a{
+	text-decoration: none;
+	color: var(--ice-green);
+	transition: all 0.3s ease-out;
+}
+#navbarlist a:hover{
+	color: var(--ivory);
 }

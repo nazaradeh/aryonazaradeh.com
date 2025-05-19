@@ -1,0 +1,104 @@
+
+@font-face{
+	font-family: "Elza";
+	src: url("/public/fonts/elza/Elza-Thin.otf") format("opentype");
+	font-weight: 100;
+	font-style: normal;
+}
+@font-face{
+	font-family: "Elza";
+	src: url("/public/fonts/elza/Elza-ThinOblique.otf") format("opentype");
+	font-weight: 100;
+	font-style: oblique;
+}
+@font-face{
+	font-family: "Elza";
+	src: url("/public/fonts/elza/Elza-ExtraLight.otf") format("opentype");
+	font-weight: 200;
+	font-style: normal;
+}
+@font-face{
+	font-family: "Elza";
+	src: url("/public/fonts/elza/Elza-ExtraLightOblique.otf") format("opentype");
+	font-weight: 200;
+	font-style: oblique;
+}
+@font-face{
+	font-family: "Elza";
+	src: url("/public/fonts/elza/Elza-Light.otf") format("opentype");
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face{
+	font-family: "Elza";
+	src: url("/public/fonts/elza/Elza-LightOblique.otf") format("opentype");
+	font-weight: 300;
+	font-style: oblique;
+}
+@font-face{
+	font-family: "Elza";
+	src: url("/public/fonts/elza/Elza.otf") format("opentype");
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face{
+	font-family: "Elza";
+	src: url("/public/fonts/elza/Elza-Oblique.otf") format("opentype");
+	font-weight: 400;
+	font-style: oblique;
+}
+@font-face{
+	font-family: "Elza";
+	src: url("/public/fonts/elza/Elza-Medium.otf") format("opentype");
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face{
+	font-family: "Elza";
+	src: url("/public/fonts/elza/Elza-MediumOblique.otf") format("opentype");
+	font-weight: 500;
+	font-style: oblique;
+}
+@font-face{
+	font-family: "Elza";
+	src: url("/public/fonts/elza/Elza-SemiBold.otf") format("opentype");
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face{
+	font-family: "Elza";
+	src: url("/public/fonts/elza/Elza-SemiBoldOblique.otf") format("opentype");
+	font-weight: 600;
+	font-style: oblique;
+}
+@font-face{
+	font-family: "Elza";
+	src: url("/public/fonts/elza/Elza-Bold.otf") format("opentype");
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face{
+	font-family: "Elza";
+	src: url("/public/fonts/elza/Elza-BoldOblique.otf") format("opentype");
+	font-weight: 700;
+	font-style: oblique;
+}
+@font-face{
+	font-family: "Elza";
+	src: url("/public/fonts/elza/Elza-Black.otf") format("opentype");
+	font-weight: 900;
+	font-style: normal;
+}
+@font-face{
+	font-family: "Elza";
+	src: url("/public/fonts/elza/Elza-BlackOblique.otf") format("opentype");
+	font-weight: 900;
+	font-style: oblique;
+}
+@font-face{
+	font-family: "Lalezar";
+	src: url("/public/fonts/lalezar/Lalezar-Regular.ttf") format("truetype");
+	font-weight: 400;
+	font-style: normal;
+}
+
