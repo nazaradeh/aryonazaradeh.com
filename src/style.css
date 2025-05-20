@@ -12,8 +12,9 @@
 	margin: 0;
 	padding: 0;
 	font-family: "Elza", sans-serif;
+	font-weight: 300;
 }
-body {
+body{
 	background: var(--ivory);
 }
 .header{
@@ -40,17 +41,22 @@ body {
 }
 #navbarlist li{
 	display: inline-block;
-	font-size: 18px;
-	letter-spacing: 0.5px;
-	padding: 0px 15px;
-	font-weight: 500;
+	padding: 0px 13px;
 	line-height: calc(var(--navbar-height) + 2px);
 }
 #navbarlist a{
+	font-weight: 500;
+	font-size: 17px;
+	letter-spacing: 1.2px;
 	text-decoration: none;
 	color: var(--ice-green);
 	transition: all 0.3s ease-out;
 }
 #navbarlist a:hover{
 	color: var(--ivory);
+}
+#content{
+	padding: 0 250px;
+}
+#demoreel{
 }

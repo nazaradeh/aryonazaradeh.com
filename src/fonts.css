@@ -6,7 +6,7 @@
 }
 @font-face{
 	font-family: "Elza";
-	src: url("/public/fonts/elza/Elza_ThinOblique.otf") format("opentype");
+	src: url("/public/fonts/elza/Elza_Thin_Oblique.otf") format("opentype");
 	font-weight: 100;
 	font-style: oblique;
 }
@@ -18,19 +18,19 @@
 }
 @font-face{
 	font-family: "Elza";
-	src: url("/public/fonts/elza/Elza_ExtraLightOblique.otf") format("opentype");
+	src: url("/public/fonts/elza/Elza_ExtraLight_Oblique.otf") format("opentype");
 	font-weight: 200;
 	font-style: oblique;
 }
 @font-face{
 	font-family: "Elza";
-	src: url("/public/fonts/elza/Elza_Light.otf") format("opentype");
+	src: url("/public/fonts/elza/Elza_Light_Reduced.otf") format("opentype");
 	font-weight: 300;
 	font-style: normal;
 }
 @font-face{
 	font-family: "Elza";
-	src: url("/public/fonts/elza/Elza_LightOblique.otf") format("opentype");
+	src: url("/public/fonts/elza/Elza_Light_Oblique.otf") format("opentype");
 	font-weight: 300;
 	font-style: oblique;
 }
@@ -48,13 +48,13 @@
 }
 @font-face{
 	font-family: "Elza";
-	src: url("/public/fonts/elza/Elza_Medium.otf") format("opentype");
+	src: url("/public/fonts/elza/Elza_Medium_Reduced.otf") format("opentype");
 	font-weight: 500;
 	font-style: normal;
 }
 @font-face{
 	font-family: "Elza";
-	src: url("/public/fonts/elza/Elza_MediumOblique.otf") format("opentype");
+	src: url("/public/fonts/elza/Elza_Medium_Oblique.otf") format("opentype");
 	font-weight: 500;
 	font-style: oblique;
 }
@@ -66,7 +66,7 @@
 }
 @font-face{
 	font-family: "Elza";
-	src: url("/public/fonts/elza/Elza_SemiBoldOblique.otf") format("opentype");
+	src: url("/public/fonts/elza/Elza_SemiBold_Oblique.otf") format("opentype");
 	font-weight: 600;
 	font-style: oblique;
 }
@@ -78,7 +78,7 @@
 }
 @font-face{
 	font-family: "Elza";
-	src: url("/public/fonts/elza/Elza_BoldOblique.otf") format("opentype");
+	src: url("/public/fonts/elza/Elza_Bold_Oblique.otf") format("opentype");
 	font-weight: 700;
 	font-style: oblique;
 }
@@ -90,7 +90,7 @@
 }
 @font-face{
 	font-family: "Elza";
-	src: url("/public/fonts/elza/Elza_BlackOblique.otf") format("opentype");
+	src: url("/public/fonts/elza/Elza_Black_Oblique.otf") format("opentype");
 	font-weight: 900;
 	font-style: oblique;
 }
